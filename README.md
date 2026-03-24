@@ -12,7 +12,7 @@
 
 ## 👩‍💻 about me
 
-<img align="right" width="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+<img align="right" width="260" src="https://media.giphy.com/media/Eh2UL0sLchILBoxeB4/giphy.gif"/>
 
 <br/>
 
@@ -38,7 +38,7 @@
 
 ## ⚡ quick facts
 
-<img align="right" width="240" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="240" src="https://media.giphy.com/media/l0Iy6IGVqoZFsARTq/giphy.gif"/>
 
 - 🎓 &nbsp; Currently studying **MSc CS @ VNUHCM**
 - 🔭 &nbsp; Researching **AI & Sports Analytics**
@@ -153,7 +153,18 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=120&section=footer&animation=fadeIn" width="100%"/>
+<br/>
+
+*"This space reflects my journey of self-improvement — not just a portfolio, but a source of motivation."*
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-@LuuNhi1311-FDE68A?style=for-the-badge&logo=github&logoColor=0c1445&labelColor=0c1445)](https://github.com/LuuNhi1311)
+[![Portfolio](https://img.shields.io/badge/Notion-My%20Portfolio-BAE6FD?style=for-the-badge&logo=notion&logoColor=0c1445&labelColor=0c1445)](https://player-ranking.notion.site/My-portfolio-2e294b52e0308061a541d019d94734a1)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=110&section=footer&animation=fadeIn" width="100%"/>
 
 <sub>crafted with 💛 & 💧 by <a href="https://github.com/LuuNhi1311">nina liu</a></sub>
 
