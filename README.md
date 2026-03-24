@@ -38,7 +38,7 @@
 
 ## ⚡ Quick Facts
 
-<img align="right" width="240" src="https://media.giphy.com/media/tkEaYA3Kd5WtyXtLqu/giphy.gif"/>
+<img align="right" width="240" src="https://media.giphy.com/media/cst5AXzPxRLyIwMNsV/giphy.gif"/>
 
 - 🎓 &nbsp; Currently studying **MSc CS @ VNUHCM**
 - 🔭 &nbsp; Researching **AI & Sports Analytics**
@@ -89,11 +89,27 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,postgres,tensorflow,pytorch,sklearn&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=python,postgres,tensorflow,pytorch&theme=dark" />
 <br/>
-<img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter,git,vscode&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=git,vscode,docker,github&theme=dark" />
+<br/><br/>
+
+![Python](https://img.shields.io/badge/Python-FF6B35?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=postgresql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,linux,github,anaconda,notion&theme=dark&perline=5" />
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<br/>
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
 </div>
 
