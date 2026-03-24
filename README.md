@@ -12,7 +12,7 @@
 
 ## 👩‍💻 about me
 
-<img align="right" width="260" src="https://media.giphy.com/media/Eh2UL0sLchILBoxeB4/giphy.gif"/>
+<img align="right" width="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
 <br/>
 
@@ -51,27 +51,65 @@
 
 ---
 
-## 🛠️ tech stack
+## 💼 work experience
 
 <div align="center">
 
-**Languages**
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Sports_Marketing_Software-0c1445?style=for-the-badge&logoColor=FDE68A" /><br/><br/>
+      <b>⚽ Sports Marketing Software</b><br/>
+      <sub>Data Scientist Analyst</sub><br/>
+      <sub><em>May 2023 → present</em></sub><br/><br/>
+      <img src="https://img.shields.io/badge/Sports-FDE68A?style=flat-square&labelColor=0c1445"/>
+      <img src="https://img.shields.io/badge/🔄 Current-A7F3D0?style=flat-square&labelColor=0c1445"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/SmartPay-0c1445?style=for-the-badge&logoColor=FDE68A" /><br/><br/>
+      <b>💳 SmartPay</b><br/>
+      <sub>Business Intelligence</sub><br/>
+      <sub><em>Mar 2022 → Jul 2023</em></sub><br/><br/>
+      <img src="https://img.shields.io/badge/Fintech-BAE6FD?style=flat-square&labelColor=0c1445"/>
+      <img src="https://img.shields.io/badge/✅ Done-FDE68A?style=flat-square&labelColor=0c1445"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Ninja_Van-0c1445?style=for-the-badge&logoColor=FDE68A" /><br/><br/>
+      <b>🚚 Ninja Van</b><br/>
+      <sub>Data Analyst</sub><br/>
+      <sub><em>Jul 2023 → Aug 2023</em></sub><br/><br/>
+      <img src="https://img.shields.io/badge/Logistics-BAE6FD?style=flat-square&labelColor=0c1445"/>
+      <img src="https://img.shields.io/badge/✅ Done-FDE68A?style=flat-square&labelColor=0c1445"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🛠️ languages & tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,postgresql,tensorflow,sklearn,pytorch&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter,git,vscode&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,linux,notion,github,anaconda&theme=dark" />
+
+<br/><br/>
 
 ![Python](https://img.shields.io/badge/Python-FDE68A?style=for-the-badge&logo=python&logoColor=0c1445)
 ![SQL](https://img.shields.io/badge/SQL-BAE6FD?style=for-the-badge&logo=postgresql&logoColor=0c1445)
-
-**Data & ML**
-
-![Pandas](https://img.shields.io/badge/Pandas-FDE68A?style=for-the-badge&logo=pandas&logoColor=0c1445)
-![NumPy](https://img.shields.io/badge/NumPy-BAE6FD?style=for-the-badge&logo=numpy&logoColor=0c1445)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-A7F3D0?style=for-the-badge&logo=scikitlearn&logoColor=0c1445)
-![Jupyter](https://img.shields.io/badge/Jupyter-FDE68A?style=for-the-badge&logo=jupyter&logoColor=0c1445)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-BAE6FD?style=for-the-badge&logo=git&logoColor=0c1445)
-![VS Code](https://img.shields.io/badge/VS%20Code-A7F3D0?style=for-the-badge&logo=visualstudiocode&logoColor=0c1445)
-![Notion](https://img.shields.io/badge/Notion-FDE68A?style=for-the-badge&logo=notion&logoColor=0c1445)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-A7F3D0?style=for-the-badge&logo=tensorflow&logoColor=0c1445)
+![PyTorch](https://img.shields.io/badge/PyTorch-FDE68A?style=for-the-badge&logo=pytorch&logoColor=0c1445)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-BAE6FD?style=for-the-badge&logo=scikitlearn&logoColor=0c1445)
+![Pandas](https://img.shields.io/badge/Pandas-A7F3D0?style=for-the-badge&logo=pandas&logoColor=0c1445)
+![NumPy](https://img.shields.io/badge/NumPy-FDE68A?style=for-the-badge&logo=numpy&logoColor=0c1445)
+![Jupyter](https://img.shields.io/badge/Jupyter-BAE6FD?style=for-the-badge&logo=jupyter&logoColor=0c1445)
+![Docker](https://img.shields.io/badge/Docker-A7F3D0?style=for-the-badge&logo=docker&logoColor=0c1445)
+![Git](https://img.shields.io/badge/Git-FDE68A?style=for-the-badge&logo=git&logoColor=0c1445)
 
 </div>
 
