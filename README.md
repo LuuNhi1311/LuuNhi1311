@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=200&section=header&text=✦%20hi%2C%20i'm%20nina%20!&fontSize=48&fontColor=FEF9C3&fontAlignY=36&desc=data%20explorer%20·%20ai%20researcher%20·%20quiet%20night%20coder&descSize=15&descAlignY=56&descColor=BAE6FD&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=200&section=header&text=✦%20Hi%2C%20I'm%20Nina%20!&fontSize=48&fontColor=FEF9C3&fontAlignY=36&desc=Data%20Explorer%20·%20AI%20Researcher%20·%20Quiet%20Night%20Coder&descSize=15&descAlignY=56&descColor=BAE6FD&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/LuuNhi1311">
-  <img src="https://readme-typing-svg.demolab.com?font=Gowun+Batang&weight=500&size=20&pause=1200&color=FDE68A&center=true&vCenter=true&width=640&lines=MSc+Computer+Science+%40+VNUHCM+%F0%9F%8E%93;Bachelor's+Data+Science+%E2%80%94+Graduated+with+Honors+%F0%9F%8C%9F;AI+Researcher+%7C+Sports+Analytics+%E2%9A%BD;Always+learning%2C+always+growing+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Gowun+Batang&weight=500&size=20&pause=1200&color=FDE68A&center=true&vCenter=true&width=640&lines=MSc+Computer+Science+%40+VNUHCM+%F0%9F%8E%93;Bachelor's+Data+Science+%E2%80%94+Graduated+with+Honors+%F0%9F%8C%9F;AI+Researcher+%7C+Sports+Analytics+%E2%9A%BD;Always+Learning%2C+Always+Growing+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 </div>
 
 ---
 
-## 👩‍💻 about me
+## 👩‍💻 About Me
 
 <img align="right" width="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
@@ -36,9 +36,9 @@
 
 ---
 
-## ⚡ quick facts
+## ⚡ Quick Facts
 
-<img align="right" width="240" src="https://media.giphy.com/media/l0Iy6IGVqoZFsARTq/giphy.gif"/>
+<img align="right" width="220" src="https://media.giphy.com/media/HBvupu2wReBIIO4Bbh/giphy.gif"/>
 
 - 🎓 &nbsp; Currently studying **MSc CS @ VNUHCM**
 - 🔭 &nbsp; Researching **AI & Sports Analytics**
@@ -51,31 +51,28 @@
 
 ---
 
-## 💼 work experience
+## 💼 Work Experience
 
 <div align="center">
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Sports_Marketing_Software-0c1445?style=for-the-badge&logoColor=FDE68A" /><br/><br/>
-      <b>⚽ Sports Marketing Software</b><br/>
+      <b>⚽ Sports Marketing Software</b><br/><br/>
       <sub>Data Scientist Analyst</sub><br/>
-      <sub><em>May 2023 → present</em></sub><br/><br/>
+      <sub><em>May 2023 → Present</em></sub><br/><br/>
       <img src="https://img.shields.io/badge/Sports-FDE68A?style=flat-square&labelColor=0c1445"/>
       <img src="https://img.shields.io/badge/🔄 Current-A7F3D0?style=flat-square&labelColor=0c1445"/>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/SmartPay-0c1445?style=for-the-badge&logoColor=FDE68A" /><br/><br/>
-      <b>💳 SmartPay</b><br/>
+      <b>💳 SmartPay</b><br/><br/>
       <sub>Business Intelligence</sub><br/>
       <sub><em>Mar 2022 → Jul 2023</em></sub><br/><br/>
       <img src="https://img.shields.io/badge/Fintech-BAE6FD?style=flat-square&labelColor=0c1445"/>
       <img src="https://img.shields.io/badge/✅ Done-FDE68A?style=flat-square&labelColor=0c1445"/>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Ninja_Van-0c1445?style=for-the-badge&logoColor=FDE68A" /><br/><br/>
-      <b>🚚 Ninja Van</b><br/>
+      <b>🚚 Ninja Van</b><br/><br/>
       <sub>Data Analyst</sub><br/>
       <sub><em>Jul 2023 → Aug 2023</em></sub><br/><br/>
       <img src="https://img.shields.io/badge/Logistics-BAE6FD?style=flat-square&labelColor=0c1445"/>
@@ -88,34 +85,21 @@
 
 ---
 
-## 🛠️ languages & tools
+## 🛠️ Languages & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,postgresql,tensorflow,sklearn,pytorch&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,postgres,tensorflow,pytorch,sklearn&theme=dark&perline=5" />
 <br/>
-<img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter,git,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter,git,vscode&theme=dark&perline=5" />
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,linux,notion,github,anaconda&theme=dark" />
-
-<br/><br/>
-
-![Python](https://img.shields.io/badge/Python-FDE68A?style=for-the-badge&logo=python&logoColor=0c1445)
-![SQL](https://img.shields.io/badge/SQL-BAE6FD?style=for-the-badge&logo=postgresql&logoColor=0c1445)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-A7F3D0?style=for-the-badge&logo=tensorflow&logoColor=0c1445)
-![PyTorch](https://img.shields.io/badge/PyTorch-FDE68A?style=for-the-badge&logo=pytorch&logoColor=0c1445)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-BAE6FD?style=for-the-badge&logo=scikitlearn&logoColor=0c1445)
-![Pandas](https://img.shields.io/badge/Pandas-A7F3D0?style=for-the-badge&logo=pandas&logoColor=0c1445)
-![NumPy](https://img.shields.io/badge/NumPy-FDE68A?style=for-the-badge&logo=numpy&logoColor=0c1445)
-![Jupyter](https://img.shields.io/badge/Jupyter-BAE6FD?style=for-the-badge&logo=jupyter&logoColor=0c1445)
-![Docker](https://img.shields.io/badge/Docker-A7F3D0?style=for-the-badge&logo=docker&logoColor=0c1445)
-![Git](https://img.shields.io/badge/Git-FDE68A?style=for-the-badge&logo=git&logoColor=0c1445)
+<img src="https://skillicons.dev/icons?i=docker,linux,github,anaconda,notion&theme=dark&perline=5" />
 
 </div>
 
 ---
 
-## 📁 featured projects
+## 📁 Featured Projects
 
 <div align="center">
 
@@ -174,7 +158,7 @@
 
 ---
 
-## 📊 github stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -204,6 +188,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=110&section=footer&animation=fadeIn" width="100%"/>
 
-<sub>crafted with 💛 & 💧 by <a href="https://github.com/LuuNhi1311">nina liu</a></sub>
+<sub>Crafted With 💛 & 💧 By <a href="https://github.com/LuuNhi1311">Nina Liu</a></sub>
 
 </div>
