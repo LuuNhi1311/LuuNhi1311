@@ -38,7 +38,7 @@
 
 ## ⚡ Quick Facts
 
-<img align="right" width="220" src="https://media.giphy.com/media/HBvupu2wReBIIO4Bbh/giphy.gif"/>
+<img align="right" width="240" src="https://media.giphy.com/media/tkEaYA3Kd5WtyXtLqu/giphy.gif"/>
 
 - 🎓 &nbsp; Currently studying **MSc CS @ VNUHCM**
 - 🔭 &nbsp; Researching **AI & Sports Analytics**
