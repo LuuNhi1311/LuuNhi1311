@@ -12,7 +12,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" width="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+<img align="right" width="280" src="https://img.notionusercontent.com/ext/https%3A%2F%2Fmedia2.giphy.com%2Fmedia%2FWRRL1EKo9rNe12S4zh%2Fgiphy.gif%3Fcid%3D7941fdc6np78hn7umbxic19lc5gmyy7md0muwpu2g6s47l0j%26ep%3Dv1_gifs_search%26rid%3Dgiphy.gif%26ct%3Dg/size/?exp=1774423464&sig=AL15txVOrBUB1cq5GxVSq0qQvfjBL7yrqzswwbUypK4&id=2e294b52-e030-81d2-9635-c4ff2e5dfc78&table=block"/>
 
 <br/>
 
@@ -38,7 +38,7 @@
 
 ## ⚡ Quick Facts
 
-<img align="right" width="240" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="240" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
 - 🎓 &nbsp; Currently studying **MSc CS @ VNUHCM**
 - 🔭 &nbsp; Researching **AI & Sports Analytics**
