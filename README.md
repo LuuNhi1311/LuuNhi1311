@@ -129,7 +129,7 @@
       <img src="https://img.shields.io/badge/🔄 In Progress-A7F3D0?style=flat-square&labelColor=0c1445"/>
     </td>
     <td width="50%" valign="top">
-      <h4>🔮 Predict Systems</h4>
+      <h4>🔮 Match Outcome Prediction</h4>
       <p>Soccer match outcome prediction using machine learning models.</p>
       <img src="https://img.shields.io/badge/Python-FDE68A?style=flat-square&logo=python&logoColor=0c1445"/>
       <img src="https://img.shields.io/badge/ML-BAE6FD?style=flat-square&logo=scikitlearn&logoColor=0c1445"/>
@@ -138,15 +138,15 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>📊 Initial Odds Prediction</h4>
-      <p>Odds modeling for CL · EL · ECL · World Cup & international competitions.</p>
+      <h4>📊 Match Probability Modeling</h4>
+      <p>Probability modeling for CL · EL · ECL · World Cup & international competitions.</p>
       <img src="https://img.shields.io/badge/Python-FDE68A?style=flat-square&logo=python&logoColor=0c1445"/>
       <img src="https://img.shields.io/badge/Stats-BAE6FD?style=flat-square&logo=numpy&logoColor=0c1445"/>
       <img src="https://img.shields.io/badge/🔄 In Progress-A7F3D0?style=flat-square&labelColor=0c1445"/>
     </td>
     <td width="50%" valign="top">
-      <h4>📈 Live Trading Model · OPTA</h4>
-      <p>Real-time sports trading model integrating OPTA data for live decisions.</p>
+      <h4>📈 Real-Time Decision System · OPTA</h4>
+      <p>Real-time sports analytics system integrating OPTA data for live match insights.</p>
       <img src="https://img.shields.io/badge/Python-FDE68A?style=flat-square&logo=python&logoColor=0c1445"/>
       <img src="https://img.shields.io/badge/SQL-BAE6FD?style=flat-square&logo=postgresql&logoColor=0c1445"/>
       <img src="https://img.shields.io/badge/✅ Done-FDE68A?style=flat-square&labelColor=0c1445"/>
